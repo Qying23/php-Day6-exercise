@@ -1,7 +1,11 @@
 php day 6 (CRUD)
 
-CRUD is an acronym for the four basic types of SQL commands: Create, Read, Update, Delete. Most applications have some kind of CRUD functionality. A CRUD application is one that uses forms to get data into and out of a database. In our case we will use PHP as a server-side language and SQL queries to manipulate with MySQL database to perform a particular action triggered from the users.
-
+ -re-create CRUD application from the pre-work material
+ -get the final result with the CRUD functionalities extend the update user page with the option to edit active column in the table user
+ -create two tables on the index page
+ -the First table should display users who have value 0 in a column active
+ -the second table should display users who have value 1 in a column active
+ -the last step for this exercise is to add a Bootstrap theme to this application
 
 
 
